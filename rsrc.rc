@@ -1,0 +1,5 @@
+#define MANIFEST 24
+    #include "\masm32\include\resource.h"
+
+    10 ICON "main.ico"        
+
