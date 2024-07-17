@@ -22,7 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{5b311a87-9cfb-4eff-83d7-40dccd7e86f1}</ProjectGuid>
-    <RootNamespace>Project6</RootNamespace>
+    <RootNamespace>OEMKEY</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>oemkey</ProjectName>
   </PropertyGroup>
